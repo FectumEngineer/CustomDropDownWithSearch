@@ -1,7 +1,7 @@
 name: drop_down_with_search
 description: Plugin which has custom dropdown with on text change search option.
 version: 0.0.1
-homepage:
+homepage: https://github.com/FectumEngineer/CustomDropDownWithSearch.git
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
