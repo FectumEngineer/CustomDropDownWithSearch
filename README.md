@@ -11,29 +11,25 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This Custom drop down will have the Custom feature of drop down and search.
 
 ## Features
+A custom drop with search on list .
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+|![Blink](https://github.com/FectumEngineer/CustomDropDownWithSearch/blob/main/assets/demo.gif)
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+This package supports null safety.Please use this package with flutter that supports null safety.
 
 ## Usage
+```
+DropDownWithSearch(
+          textController: myController,
+          inputItem: ["Mumbai", "Chennai", "Maharastra", "Karnataka"],
+        ),
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
 ```
 
 ## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+Changes to the package is always accepted.Please send PR with changes.
